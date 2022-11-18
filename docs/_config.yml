@@ -1,28 +1,28 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: DocsCodeNotes
+url: "https://dumengru.github.io/docs_codenotes/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: 量化交易代码笔记
 author:
-  name:
-  email:
+  name: 杜梦如
+  email: 393570727@qq.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: DocsCodeNotes
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://dumengru.github.io/docs_codenotes/
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Asia/Shanghai
 
 permalink: pretty
 

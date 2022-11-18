@@ -1,6 +1,6 @@
 ---
 title: Facebook
-category: Contact Syncing
+category: Python基础
 order: 1
 ---
 
