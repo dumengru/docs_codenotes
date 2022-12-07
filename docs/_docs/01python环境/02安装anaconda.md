@@ -4,6 +4,10 @@ category: python环境
 order: 2
 ---
 
+> [文档纠错/补充](https://github.com/dumengru/docs_codenotes/tree/master/docs/_docs)
+
+---
+
 ## 下载安装包
 - 以下两个地址均可下载, 如果官网下载速度较慢, 建议选用清华源, 下载最新版即可
 1. [anaconda官网](https://www.anaconda.com/)
@@ -27,4 +31,4 @@ order: 2
 ![](../../images/202211211533.png)
 
 ## 踩坑点
-1. 输入cmd后提示"不是内部或外部命令", 大概率是漏勾选添加环境变量.(参考环境变量章节)
+1. 输入conda后提示"不是内部或外部命令", 大概率是漏勾选添加环境变量.(参考环境变量章节)

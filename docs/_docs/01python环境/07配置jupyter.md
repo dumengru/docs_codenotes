@@ -4,6 +4,10 @@ category: python环境
 order: 7
 ---
 
+> [文档纠错/补充](https://github.com/dumengru/docs_codenotes/tree/master/docs/_docs)
+
+---
+
 ## jupyter notebook
 
 如果已经安装好conda, 直接在cmd窗口输入`jupyter notebook`, 就可以直接启动jupyter notebook. 注意在哪个文件夹下启动cmd, 默认jupyter notebook就会打开哪个文件夹

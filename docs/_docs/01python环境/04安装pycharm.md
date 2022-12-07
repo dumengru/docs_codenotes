@@ -4,6 +4,10 @@ category: python环境
 order: 4
 ---
 
+> [文档纠错/补充](https://github.com/dumengru/docs_codenotes/tree/master/docs/_docs)
+
+---
+
 ## 下载软件 
 - 下载社区版足够普通用户使用, 专业版需要收费
 
